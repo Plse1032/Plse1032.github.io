@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>第一篇</title>
+      <link href="/2022/03/08/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+      <url>/2022/03/08/%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<p>Hi,你好哦</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 胡言乱语 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2022/03/08/test/"/>
+      <url>/2022/03/08/test/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到我的小窝,我要开始啊巴啊巴了</p><h2 id="速度啊巴"><a href="#速度啊巴" class="headerlink" title="速度啊巴"></a>速度啊巴</h2><h3 id="速度啊巴-2"><a href="#速度啊巴-2" class="headerlink" title="速度啊巴*2"></a>速度啊巴*2</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;速度啊巴&quot;</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 胡言乱语 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/03/08/hello-world/"/>
       <url>/2022/03/08/hello-world/</url>
