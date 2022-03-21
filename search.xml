@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>关于win10输入法候选框消失问题</title>
+      <link href="/2022/03/21/win10%E8%87%AA%E5%B8%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%80%99%E9%80%89%E6%A1%86/"/>
+      <url>/2022/03/21/win10%E8%87%AA%E5%B8%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%80%99%E9%80%89%E6%A1%86/</url>
+      
+        <content type="html"><![CDATA[<h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h2><p>win10候选框会消失这个问题(如下图)</p><p><img src="https://raw.githubusercontent.com/Plse1032/Picture/master/202203211423859.PNG?token=AMTHMJXYNF32SWN7IVWB6CTCHANDC" alt="图片"></p><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>启动<em><strong>任务管理器</strong></em></p><p>在其中找到<em><strong>Windows资源管理器</strong></em>，并把它给kill掉。</p><blockquote><p>原理:进程给kill掉后，系统会重新启动<em><strong>windows资源管理器</strong></em>。顺便刷新输入法模块？</p></blockquote><h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><p>右键打开输入法设置,在其中找到兼容性,并打开.</p><blockquote><p>如果你能接受旧版本的输入法,那你可以使用.</p></blockquote><h3 id="方法三"><a href="#方法三" class="headerlink" title="方法三"></a>方法三</h3><p>由知乎上的用户<em><strong>MaximHSP</strong></em> 发布的.</p><p>在CMD中打上此代码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">DISM /Online /Add-Capability /CapabilityName:Windows.Client.ShellComponents~~~~0.0.1.0</span><br></pre></td></tr></table></figure><blockquote><p>原因:简单讲基本上就是因为 2004 版本之后通过 「设置-应用-Windows可选功能」部署的 「Windows 功能体验包」（Windows.Client.ShellComponents）被删除导致的.<br>解决:「设置-应用-Windows可选功能」中是找不到「Windows.Client.ShellComponents」这个功能的，需要通过 Dism 手动部署安装.</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关于我的梦 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更加丰富的我</title>
       <link href="/2022/03/16/%E6%9B%B4%E5%8A%A0%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%88%91/"/>
       <url>/2022/03/16/%E6%9B%B4%E5%8A%A0%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%88%91/</url>
