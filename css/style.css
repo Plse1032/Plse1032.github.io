@@ -15,7 +15,7 @@
     -moz-border-radius: 6px;
     border-radius: 6px
 }
-
+/* 主界面 */
 body {
     position: relative;
     padding-top: 40px;
@@ -23,6 +23,10 @@ body {
 }
 
 .content {
+    background: url("../a0.jpg") no-repeat left top;
+    background-size: 15em;
+    background-position: right;      
+    /* 上面是Plsei添加的 */
     padding: 20px;
     margin: 20px -20px;
     -webkit-border-radius: 6px 6px 6px 6px;
