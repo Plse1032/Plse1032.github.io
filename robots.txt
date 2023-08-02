@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: sitemap.xml
+Sitemap: https://plse1032.github.io/sitemap.xml
