@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>life on 秘密基地</title>
-    <link>https://plse1032.github.io/en/categories/life/</link>
-    <description>Recent content in life on 秘密基地</description>
+    <title>童年 on 秘密基地</title>
+    <link>https://plse1032.github.io/en/categories/%E7%AB%A5%E5%B9%B4/</link>
+    <description>Recent content in 童年 on 秘密基地</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Aug 2023 23:01:58 +0800</lastBuildDate><atom:link href="https://plse1032.github.io/en/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2023 23:01:58 +0800</lastBuildDate><atom:link href="https://plse1032.github.io/en/categories/%E7%AB%A5%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>好运枪</title>
       <link>https://plse1032.github.io/en/posts/life/gun/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://plse1032.github.io/en/posts/life/gun/</guid>
       <description>幻想中的道具 女生喜欢芭比娃娃，男生喜欢玩具枪，这些是对于童年玩具的刻板印象。那会，爸爸总是用电脑放着动画片来给我看，其中包括多啦A梦。 多啦A</description>
-    </item>
-    
-    <item>
-      <title>毛毛</title>
-      <link>https://plse1032.github.io/en/posts/life/maomao/</link>
-      <pubDate>Thu, 15 Jun 2023 23:01:58 +0800</pubDate>
-      
-      <guid>https://plse1032.github.io/en/posts/life/maomao/</guid>
-      <description>比较沉重</description>
     </item>
     
   </channel>
